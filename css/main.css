@@ -31,9 +31,9 @@ div {
 }
 #darkblue {
   /* this selects any elements with the red id */
-  border-top-color: rgb(33, 15, 199);
+  border-top-color: indigo;
 }
 #purple {
   /* this selects any elements with the red id */
-  border-top-color: rgb(191, 24, 224);
+  border-top-color: violet;
 }
